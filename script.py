@@ -1,5 +1,5 @@
 class Script(object):
-    START_TXT = """Hello {},
+    START_TXT = """Hello 👋  {},
 
 My name is <a href=https://t.me/{}>{}</a>!
 
@@ -11,8 +11,8 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
+    ABOUT_TXT = """<b>➥ Bot name: {}
+➥ admin: <a href='https://t.me/muhammed_salman'>Muhammed Salman</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
